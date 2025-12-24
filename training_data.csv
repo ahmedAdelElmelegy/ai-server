@@ -18,7 +18,7 @@ Age,Gender,Surgery_Type,Diabetes,Hypertension,ECG_Monitoring,Early_Ambulation,In
 70,Female,CABG,Yes,Yes,Poor,No,No,Good,Good,No,AKI
 60,Female,CABG,Yes,No,Poor,No,Yes,Poor,Poor,Yes,SSI
 70,Female,Valve,Yes,Yes,Good,Yes,Yes,Poor,Poor,Yes,No_Complication
-55,Male,CABG,No,No,Poor,No,No,Poor,Poor,Yes,No_Complication
+55,Male,CABG,No,No,Poor,No,No,Poor,Poor,Yes,No_Complication 
 70,Male,CABG,No,No,Good,No,Yes,Good,Poor,No,AKI
 45,Male,Valve,No,No,Good,No,No,Poor,Good,Yes,Stroke
 45,Female,CABG,Yes,Yes,Good,Yes,Yes,Good,Poor,Yes,Hyperglycemia
