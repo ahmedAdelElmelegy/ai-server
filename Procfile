@@ -1,2 +1,2 @@
-web: cardiac_system_optimized.py
+web: python cardiac_system_optimized.py
 
